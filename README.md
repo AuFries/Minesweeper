@@ -1,2 +1,2 @@
 # Minesweeper
-Console minesweeper in java
+Simple console minesweeper in java
